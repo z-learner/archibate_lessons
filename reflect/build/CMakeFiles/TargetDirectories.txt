@@ -1,3 +1,0 @@
-/root/Code/archibate_lessons/reflect/build/CMakeFiles/Reflect.dir
-/root/Code/archibate_lessons/reflect/build/CMakeFiles/edit_cache.dir
-/root/Code/archibate_lessons/reflect/build/CMakeFiles/rebuild_cache.dir
